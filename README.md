@@ -1,0 +1,2 @@
+# googleHashcode
+for google competition
